@@ -1,0 +1,26 @@
+.ma-liveleak:before {
+	content: "\ee001";
+}
+.ma-dailymotion:before {
+	content: "\ee002";
+}
+
+.mab {
+	font-family: 'mia' !important;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1;
+}
+@font-face {
+	font-family: 'mia';
+	font-weight: 400;
+	src: url('../webfonts/mia.ttf?of8hsm') format('truetype'),
+		url('../webfonts/mia.woff?of8hsm') format('woff'),
+		url('../webfonts/mia.svg?of8hsm#mia') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}

@@ -1,0 +1,17 @@
+{
+	"include": [
+		"server/**/*"
+	],
+	"exclude": [
+		"node_modules",
+		"server/**/*.spec.ts"
+	],
+	"compilerOptions": {
+		"target": "esnext",
+		"module": "CommonJS",
+		"lib": ["esnext", "dom"],
+		"noImplicitAny": true,
+		"removeComments": true,
+		"allowJs": true,
+	}
+}
