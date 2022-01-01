@@ -1,6 +1,3 @@
-# Description
-This is a simple WebUI for Youtube-DL library. I've tried to learn Vue.JS
-
 # Requirements:
 * [Node.js 10.x](https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions)
 * Vue.JS 2.x
